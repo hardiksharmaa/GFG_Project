@@ -11,6 +11,13 @@ In the rapidly growing urban landscape, smart cities have emerged as a beacon of
 - **JavaScript**
 
 ---
+## 🔗 Live Demo
+
+Check out the deployed project here:  
+👉 [SmartCity Website Live](https://your-deployed-project-link.com)  
+> _(Replace this link with your actual deployment URL)_
+
+---
 
 ## 🧠 Key Features
 
