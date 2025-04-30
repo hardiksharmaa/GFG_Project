@@ -14,7 +14,7 @@ In the rapidly growing urban landscape, smart cities have emerged as a beacon of
 ## 🔗 Live Demo
 
 Check out the deployed project here:  
-👉 [SmartCity Website Live](https://your-deployed-project-link.com)  
+👉 [SmartCity Website Live](https://ritiksingh4433.github.io/SmartCity-Hackathon/)  
 > _(Replace this link with your actual deployment URL)_
 
 ---
